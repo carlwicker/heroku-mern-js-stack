@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <a
           className="App-link"
-          href="http://localhost:5000/api"
+          href="/api"
           target="_blank"
           rel="noopener noreferrer"
         >
